@@ -1,0 +1,13 @@
+
+26/04/2022 22:48:15
+Most frequent itemsets of size k = 2, support threshold = 1000
+ [ acute viral pharyngitis (disorder), viral sinusitis (disorder)]
+ [ acute bronchitis (disorder), viral sinusitis (disorder)]
+ [ prediabetes, anemia (disorder)]
+ [ body mass index 30+ - obesity (finding), viral sinusitis (disorder)]
+ [ anemia (disorder), viral sinusitis (disorder)]
+ [ prediabetes, viral sinusitis (disorder)]
+ [ acute bronchitis (disorder), acute viral pharyngitis (disorder)]
+ [ viral sinusitis (disorder), hypertension]
+ [ body mass index 30+ - obesity (finding), acute viral pharyngitis (disorder)]
+ [ chronic sinusitis (disorder), viral sinusitis (disorder)]
